@@ -4,11 +4,7 @@ Prework is a tip calculator application for iOS.
 
 Submitted by: Matthew Piedra
 
-<<<<<<< HEAD
 Time spent: 5 hours spent in total
-=======
-Time spent: 2 hours spent in total
->>>>>>> 6f7417655c42c20a161986a55dc11edee1bf5885
 
 ## User Stories
 
