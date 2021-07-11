@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-![](https://github.com/matthewpiedra/Prework/blob/main/prework.gif)
+![](https://github.com/iOS-Development-Projects/Prework/blob/main/prework.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
